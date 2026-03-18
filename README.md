@@ -135,8 +135,13 @@ Possible improvements for this project include:
 - Deploying the model as an API
 - Building a web interface for real-time speech generation
 
+
+
 ---
 
 # Author
 
 Harshit Agarwal
+
+📄 **Project File:**  
+👉 https://drive.google.com/file/d/1orV511PgaldUmKVdP2rKSlWa1u_SBmgd/view?usp=sharing
